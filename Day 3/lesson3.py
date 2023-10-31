@@ -21,3 +21,5 @@ name = "nika"
 print(name + " " + surname + " " + str(age) + " " + str(height) + " " + str(weight))
 
 print(name)
+
+print(name)
