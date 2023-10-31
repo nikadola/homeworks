@@ -15,8 +15,4 @@ my_height_is_184_cm = True
 
 my_weight_is_70_kg = True
 
-
-name = "nika"
-
-print(name + " " + surname + " " + str(age) + " " + str(height) + " " + str(weight))
-
+print("my name is" + " " + name + "," + " " + "my surname is" + " " + surname + "," + " " + "i am" + " " + str(age)+ " " + "years old" + "." + " " + "my height is" + " " + str(height) + " " + "cm." + " " + "my weight is" + " " + str(70) + " " + "kg.")
