@@ -19,3 +19,5 @@ my_weight_is_70_kg = True
 name = "nika"
 
 print(name + " " + surname + " " + str(age) + " " + str(height) + " " + str(weight))
+
+print(name)
